@@ -8,12 +8,10 @@ body{
     font-size: 500%;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
-    transform:translate(470px)
-    translateY(300px)
-
-   
-    
-
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   height: 100vh;
 }
 #hours{
     background-color: rgb(228, 14, 14);
